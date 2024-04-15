@@ -1,0 +1,13 @@
+﻿  RayLib Games.cpp
+C:\Users\ajha4\source\repos\RayLib Games\RayLib Games\RayLib Games.cpp(20,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ajha4\source\repos\RayLib Games\RayLib Games\RayLib Games.cpp(20,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ajha4\source\repos\RayLib Games\RayLib Games\RayLib Games.cpp(20,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ajha4\source\repos\RayLib Games\RayLib Games\RayLib Games.cpp(43,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ajha4\source\repos\RayLib Games\RayLib Games\RayLib Games.cpp(44,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ajha4\source\repos\RayLib Games\RayLib Games\RayLib Games.cpp(69,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ajha4\source\repos\RayLib Games\RayLib Games\RayLib Games.cpp(138,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ajha4\source\repos\RayLib Games\RayLib Games\RayLib Games.cpp(140,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ajha4\source\repos\RayLib Games\RayLib Games\RayLib Games.cpp(145,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  RayLib Games.vcxproj -> C:\Users\ajha4\source\repos\RayLib Games\x64\Debug\RayLib Games.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
