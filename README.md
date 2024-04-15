@@ -1,6 +1,6 @@
 # Gamez - DAA Hackathon Project
 
-Welcome to Gamez! This project is a compilation of four classic games - Cowboy, Tetris, Pong, and Snake Game - created for the DAA (Data Structures and Algorithms) hackathon. The games are built using Unity and are designed to entertain users of all ages.
+Welcome to Gamez! This project is a compilation of four classic games - Conway, Tetris, Pong, and Snake Game - created for the DAA (Data Structures and Algorithms) hackathon. The games are built using Unity and are designed to entertain users of all ages.
 
 ## Project Description
 
