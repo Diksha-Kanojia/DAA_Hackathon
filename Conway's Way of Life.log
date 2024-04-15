@@ -1,0 +1,6 @@
+﻿  Conway's Way of Life.cpp
+C:\Users\ajha4\source\repos\Conway's Way of Life\Conway's Way of Life\Conway's Way of Life.cpp(246,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ajha4\source\repos\Conway's Way of Life\Conway's Way of Life\Conway's Way of Life.cpp(247,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Conway's Way of Life.vcxproj -> C:\Users\ajha4\source\repos\Conway's Way of Life\x64\Debug\Conway's Way of Life.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
